@@ -28,7 +28,7 @@ Key Features
 
 ## Screenshots
 
-![display](ScreenShot/1.Login Page.png)
+![display](./ScreenShot/LoginPage.png)
 
 
 ## Supported Platform
