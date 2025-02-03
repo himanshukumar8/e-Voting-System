@@ -45,14 +45,14 @@ MSVC, GCC and Clang, etc. supporting **C++17 standard or above**.
 Run:
 
 ```shell
-$ git clone https://github.com/Timothy-Liuxf/simple_logger.git --recursive
+https://github.com/himanshukumar8/e-Voting-System.git
 ```
 
 or
 
 ```shell
-$ git clone https://github.com/Timothy-Liuxf/simple_logger.git
-$ cd simple_logger
+$ git clone https://github.com/himanshukumar8/e-Voting-System.git
+$ cd e-Voting-System
 $ git submodule update --init --recursive
 ```
 
