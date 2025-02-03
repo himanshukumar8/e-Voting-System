@@ -30,3 +30,29 @@ Key Features
 
 ![App Screenshot]()
 
+## Supported Platform
+
++ Unix-like Operating Systems (Linux, MacOS, FreeBSD, ...)
++ Windows x86/x64 (MSVC, MinGW, MinGW-w64, Cygwin, ...)
++ ...
+
+## Supported Compiler
+
+MSVC, GCC and Clang, etc. supporting **C++17 standard or above**.
+
+## Clone this Repository
+
+Run:
+
+```shell
+$ git clone https://github.com/Timothy-Liuxf/simple_logger.git --recursive
+```
+
+or
+
+```shell
+$ git clone https://github.com/Timothy-Liuxf/simple_logger.git
+$ cd simple_logger
+$ git submodule update --init --recursive
+```
+
