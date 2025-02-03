@@ -30,6 +30,33 @@ Key Features
 
 ![display](./ScreenShot/LoginPage.png)
 
+![display](./ScreenShot/AdminLoginPage.png)
+
+![display](./ScreenShot/AdminPage.png)
+
+![display](./ScreenShot/CandidateConfirmation.png)
+
+![display](./ScreenShot/CandidateLogin.png)
+
+![display](./ScreenShot/VoterRegistration.png)
+
+![display](./ScreenShot/VoterConfirmation.png)
+
+![display](./ScreenShot/Poll.png)
+
+![display](./ScreenShot/PollCandiate.png)
+
+![display](./ScreenShot/candiateconfirmation.png)
+
+![display](./ScreenShot/StartPoll.png)
+
+![display](./ScreenShot/PollPage.png)
+
+![display](./ScreenShot/PreviousPoll.png)
+
+
+
+
 
 ## Supported Platform
 
