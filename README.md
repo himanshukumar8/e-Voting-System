@@ -5,11 +5,11 @@ The goal of this project is to create an electronic voting system that efficient
 
 Key Features
 
-+:white_check_mark:User-Friendly Interface: Simplified voting process with easy access to polls.
++ :white_check_mark:User-Friendly Interface: Simplified voting process with easy access to polls.
 
-+:white_check_mark:Admin Control: Only the admin can manipulate voter, candidate, and poll data, ensuring security.
++ :white_check_mark:Admin Control: Only the admin can manipulate voter, candidate, and poll data, ensuring security.
 
-+:white_check_mark:Efficient Data Management: Store and update voter, candidate, and poll data seamlessly.
++ :white_check_mark:Efficient Data Management: Store and update voter, candidate, and poll data seamlessly.
 
 # OOP's Concepts Utilized
 
