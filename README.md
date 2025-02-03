@@ -5,11 +5,11 @@ The goal of this project is to create an electronic voting system that efficient
 
 Key Features
 
-1.User-Friendly Interface: Simplified voting process with easy access to polls.
++ :white_check_mark:User-Friendly Interface: Simplified voting process with easy access to polls.
 
-2.Admin Control: Only the admin can manipulate voter, candidate, and poll data, ensuring security.
++ :white_check_mark:Admin Control: Only the admin can manipulate voter, candidate, and poll data, ensuring security.
 
-3.Efficient Data Management: Store and update voter, candidate, and poll data seamlessly.
++ :white_check_mark:Efficient Data Management: Store and update voter, candidate, and poll data seamlessly.
 
 # OOP's Concepts Utilized
 
@@ -29,4 +29,23 @@ Key Features
 ## Screenshots
 
 ![App Screenshot]()
+
+## Supported Platform
+
++ Unix-like Operating Systems (Linux, MacOS, FreeBSD, ...)
++ Windows x86/x64 (MSVC, MinGW, MinGW-w64, Cygwin, ...)
+  
+
+## Supported Compiler
+
+MSVC, GCC and Clang, etc. supporting **C++17 standard or above**.
+
+## Clone this Repository
+
+Run:
+
+```shell
+https://github.com/himanshukumar8/e-Voting-System.git
+```
+
 
