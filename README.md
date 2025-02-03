@@ -48,11 +48,4 @@ Run:
 https://github.com/himanshukumar8/e-Voting-System.git
 ```
 
-or
-
-```shell
-$ git clone https://github.com/himanshukumar8/e-Voting-System.git
-$ cd e-Voting-System
-$ git submodule update --init --recursive
-```
 
