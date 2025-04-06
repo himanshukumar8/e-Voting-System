@@ -14,7 +14,7 @@ Key Features
   
 # OOP's Concepts Utilized
 
-![display](e voting system.png)
+![display](./ScreenShot/ProjectStructure.png)
 
 # OOP's Concepts Utilized
 
