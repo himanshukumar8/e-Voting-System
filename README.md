@@ -12,7 +12,7 @@ Key Features
 + :white_check_mark:Efficient Data Management: Store and update voter, candidate, and poll data seamlessly.
 
   
-# OOP's Concepts Utilized
+# Project Structure 
 
 ![display](./ScreenShot/ProjectStructure.png)
 
