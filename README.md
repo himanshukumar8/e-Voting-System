@@ -1,5 +1,5 @@
 
-# E-Voting System using C++
+# E-Voting System using OOPs and C++
 
 The goal of this project is to create an electronic voting system that efficiently handles and manages voting, candidate, and voter data. The method guarantees a simple, paperless voting process that requires less human involvement and makes polls easily accessible. Regular users can quickly cast their ballots, and it has an admin-only interface for safe data modification.
 
