@@ -11,6 +11,11 @@ Key Features
 
 + :white_check_mark:Efficient Data Management: Store and update voter, candidate, and poll data seamlessly.
 
+  
+# OOP's Concepts Utilized
+
+![display](e voting system.png)
+
 # OOP's Concepts Utilized
 
 1.Inheritance: Different classes for voter, candidate, etc., with data objects accessed by the admin class using inheritance.
